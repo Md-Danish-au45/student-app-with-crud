@@ -1,0 +1,15 @@
+{
+  "name": "student-app-task",
+  "version": "1.0.0",
+  "description": "this is the task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "md danish",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.6.5"
+  }
+}
